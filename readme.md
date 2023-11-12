@@ -48,5 +48,13 @@
 		<li>…</li>
 	</ol>
 <hr />
+
+<h2>Counting</h2>
+	<p>An hours is the fundamental unit of time, with the definition as mentioned.</p>
+	<p>A year is counted at the time (moment) of the northern hemisphere winter solstice. The year numbering begins at 0, and increments at each time of a winter solstice.</p>
+	<p>A month is counted at the time (moment) of a new moon. The month is counted at the moment of a new moon, but will reset to the 0 month at the moment of a new year (marking the progress of the yet incomplete month, for counting the months that belongs to the year). Optionally, months can be counted consecutively from the epoch new moon for ease in calculations and accountings.</p>
+	<p>A day is provisionally measured according to the Indian Standard Time, until a more suitable prime meridian is decided. The day is counted at the moment of the mid-night, but will reset to the 0 day at the moment of a new month (marking the progress of the yet incomplete day, for counting the days that belongs to the month).</p>
+	<h3>The Sapiens Era Calendar</h3>
+		<p>The Sapiens Era Calendar started at the epoch of the nearest co-incidence of a very new moons (that was accompanied by a solar eclipse) and a winter solstice of the northern hemisphere.</p>
 </body>
 </html>
